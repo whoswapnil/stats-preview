@@ -1,0 +1,51 @@
+body
+{
+    background-color: hsl(233, 47%, 7%);
+}
+#content
+{
+   
+    color:#fff; 
+    margin: 9%;
+    
+}
+.para
+{
+    font-size: 30px;
+    font-family: "Inter";
+    font-weight: 700;
+    padding: 15% 15% 0% 15%;
+    margin-top: 10px;
+    margin-left: -15px;
+}
+.id
+{
+    color: hsl(277, 64%, 61%);
+}
+.content
+{
+    font-family: "Lexend Deca";
+    margin-left: 60px;
+}
+
+.rz
+{
+    background-color: hsl(244, 38%, 16%);
+    
+}
+.image
+{
+    width: 100%;
+}
+.dii
+{
+    padding-left: 0%;
+}
+.matter
+{
+    font-size: 20px;
+}
+.below
+{
+    font-size: 14px;
+}
